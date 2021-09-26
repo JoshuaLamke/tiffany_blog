@@ -1,0 +1,24 @@
+@media Screen and (min-width: 1000px) {
+    #minimalist-doctor {
+        width: 95%!important;
+    }
+    #baseball-img {
+        width: 85%!important;
+    }
+}
+@media Screen and (min-width: 1200px) {
+    #minimalist-doctor {
+        width: 80%!important;
+    }
+    #baseball-img {
+        width: 70%!important;
+    }
+}
+@media Screen and (min-width: 1400px) {
+    #minimalist-doctor {
+        width: 70%!important;
+    }
+    #baseball-img {
+        width: 60%!important;
+    }
+}
